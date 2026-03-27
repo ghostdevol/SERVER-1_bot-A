@@ -1,0 +1,67 @@
+Privacy Policy – GhosTech Controller Bot (Bot-A)
+
+Effective Date: [Insert Date]
+
+1. Overview
+
+Bot-A processes user commands to send instructions to a remote execution server.
+
+---
+
+2. Data Collected
+
+- Discord User ID
+- Command messages issued to the bot
+- Timestamps of usage
+
+---
+
+3. Purpose of Data
+
+- To transmit commands to the bridge server
+- To ensure proper bot functionality
+- For debugging if needed
+
+---
+
+4. Data Storage
+
+- No permanent storage by default
+- Temporary logs may exist in runtime memory
+
+---
+
+5. Data Sharing
+
+Data is only transmitted to:
+
+- The connected bridge server (Termux/Flask)
+
+No third-party sharing occurs.
+
+---
+
+6. Security
+
+Users are responsible for:
+
+- Keeping bot tokens secure
+- Restricting command access
+
+---
+
+7. User Responsibility
+
+Users must only send commands to systems they own or are authorized to control.
+
+---
+
+8. Changes
+
+Policy may be updated at any time.
+
+---
+
+9. Contact
+
+[Your GitHub Profile]
